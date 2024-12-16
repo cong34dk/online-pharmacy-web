@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "online-pharmacy-web_backend", "online-pharmacy-web_backend.csproj", "{5387A902-B2CB-4865-8C3C-7C5462827C43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5387A902-B2CB-4865-8C3C-7C5462827C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5387A902-B2CB-4865-8C3C-7C5462827C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5387A902-B2CB-4865-8C3C-7C5462827C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5387A902-B2CB-4865-8C3C-7C5462827C43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C45A2A0-7A5A-43C0-93CD-966BA5676F16}
+	EndGlobalSection
+EndGlobal
